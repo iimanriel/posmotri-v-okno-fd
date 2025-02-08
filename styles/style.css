@@ -288,7 +288,6 @@ ol {
 }
 
 .content__video-card-description-container {
-  padding-top: 6px;
   flex-grow: 1;
 }
 
@@ -317,7 +316,6 @@ ol {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
   line-clamp: 4;
-  overflow: hidden;
 }
 
 .content__video-card-thumbnail {
